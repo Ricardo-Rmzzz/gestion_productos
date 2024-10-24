@@ -1,0 +1,1 @@
+Nombre: papa, Precio: 3000, Cantidad: 5
